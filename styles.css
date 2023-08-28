@@ -1,0 +1,16 @@
+h1{
+    color:navy;
+    font-size: 40px;
+}
+h2{
+    color: coral;
+    font-size: 25px;
+}
+p{
+    color: black;
+    font-size: 16px;
+}
+a{
+    color: sandybrown;
+    text-decoration: none;
+}
